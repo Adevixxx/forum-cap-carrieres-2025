@@ -125,3 +125,17 @@ dans `PolesShowcase.jsx` pour la réactiver).
 `npm run build` génère un site statique dans `dist/`, déployable sur n'importe quel hébergeur statique
 (Netlify, Vercel, GitHub Pages, serveur Apache/Nginx...). Penser à définir les variables `VITE_APP_EMAILJS_*`
 dans l'environnement de build de l'hébergeur (ou dans le `.env` avant de lancer le build).
+
+### Dépôt du build
+
+Le contenu de `dist/` est versionné à part, dans le dépôt privé
+[`forum-cap-carrieres-build`](https://github.com/Adevixxx/forum-cap-carrieres-build) : `dist/` est ignoré par ce dépôt-ci,
+mais contient son propre `.git` (Vite le conserve à chaque build). Pour publier un nouveau build :
+
+```bash
+# Première fois seulement, si dist/ n'existe pas encore :
+git clone https://github.com/Adevixxx/forum-cap-carrieres-build.git dist
+
+npm run build
+cd dist && git add -A && git commit -m "Nouveau build" && git push
+```
