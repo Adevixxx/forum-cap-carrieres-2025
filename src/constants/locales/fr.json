@@ -1,0 +1,351 @@
+{
+    "navbar": {
+        "logo": "Forum IMT Atlantique Brest",
+        "contact": "Nous contacter",
+        "links": {
+            "school": "L'école",
+            "forum": "Le Forum",
+            "companies": "Entreprises",
+            "poles": "Pôles",
+            "team": "L'équipe",
+            "schedule": "Planning"
+        }
+    },
+    "languageSwitcher": {
+        "fr": "Français",
+        "en": "English"
+    },
+    "hero": {
+        "headline": {
+            "line1": "Créer des",
+            "line2": "avec les entreprises",
+            "line3": "à IMT Atlantique"
+        },
+        "rotatingWords": {
+            "careers": "Carrières",
+            "opportunities": "Opportunités",
+            "connections": "Connexions"
+        },
+        "tagline": "Cap Carrières : le forum qui connecte étudiants et entreprises pour façonner l'avenir.",
+        "cta": "En savoir plus"
+    },
+    "stats": {
+        "items": [
+            {
+                "value": 1,
+                "suffix": "ère édition",
+                "label": "le 4 décembre 2025 à Brest"
+            },
+            {
+                "value": 20,
+                "suffix": "+",
+                "label": "Entreprises"
+            },
+            {
+                "value": 700,
+                "suffix": "+",
+                "label": "Étudiants"
+            },
+            {
+                "value": 6,
+                "suffix": "+",
+                "label": "Secteurs d'activité"
+            }
+        ]
+    },
+    "countdown": {
+        "title": "Le Forum IMT Atlantique commence dans :",
+        "days": "Jours",
+        "hours": "Heures",
+        "minutes": "Minutes",
+        "seconds": "Secondes"
+    },
+    "school": {
+        "title": "IMT Atlantique – Une école d'excellence",
+        "description1": "IMT Atlantique est une des plus grandes écoles d’ingénieurs de France. Issue de la fusion de Télécom Bretagne et de l’École des Mines de Nantes, elle s’impose comme un acteur majeur de la transformation numérique, énergétique et environnementale.",
+        "description2": "Les élèves se spécialisent dans de nombreux domaines : data, intelligence artificielle, cybersécurité, systèmes embarqués, télécommunications, énergies, environnement, santé, systèmes industriels et bien d’autres.",
+        "footer": "🌍 Avec ses campus à Brest, Nantes et Rennes, l’école allie recherche de pointe, innovation et ouverture internationale. ",
+        "button": "Découvrir l'école"
+    },
+    "groupPhoto": {
+        "alt": "Photo de groupe des etudiants de l'IMT Atlantique"
+    },
+    "forum": {
+        "title": "Rencontrez plus de 40 entreprises partenaires !",
+        "description1": "Né de la volonté des étudiantes et étudiants de créer un lien direct avec les entreprises, Cap Carrières est un forum pensé comme un véritable espace d'échanges.",
+        "description2": "Cette initiative étudiante vise à favoriser les rencontres concrètes autour des stages, de l'emploi et des perspectives de carrière. L'événement permet aux entreprises de venir à la rencontre de jeunes talents curieux, compétents, engagés et prêts à relever les défis de demain.",
+        "footer": "🤝 Rejoignez-nous pour une journée riche en échanges, apprentissages et opportunités de carrière !",
+        "button": "Télécharger la brochure"
+    },
+    "logos": {
+        "title": "Ils nous font déjà confiance",
+        "subtitle": "🤝 Nos partenaires",
+        "modal": {
+            "cta": "En savoir plus",
+            "close": "Fermer"
+        },
+        "items": [
+            {
+                "id": "c_arkea",
+                "name": "ARKEA",
+                "description": "Groupe bancaire coopératif et territorial, Arkéa innove dans la finance durable et les services numériques (Crédit Mutuel de Bretagne, Fortuneo)."
+            },
+            {
+                "id": "c_carrefour",
+                "name": "CARREFOUR",
+                "description": "Géant de la grande distribution engagé dans la transition alimentaire, l'e-commerce et la logistique durable."
+            },
+            {
+                "id": "c_clever_cloud",
+                "name": "CLEVER CLOUD",
+                "description": "Spécialiste français de l'hébergement Cloud et de l'automatisation (PaaS), permettant aux développeurs de déployer leur code en toute sécurité."
+            },
+            {
+                "id": "c_dga_mi",
+                "name": "DGA-MI",
+                "description": "Site de la Direction Générale de l'Armement dédié à la Maîtrise de l'Information : cybersécurité, guerre électronique et systèmes de communication stratégiques."
+            },
+            {
+                "id": "c_enedis",
+                "name": "ENEDIS",
+                "description": "Gestionnaire du réseau public de distribution d'électricité, Enedis assure le raccordement, le dépannage et le déploiement des compteurs Linky."
+            },
+            {
+                "id": "c_mbda",
+                "name": "MBDA",
+                "description": "Leader européen dans la conception de missiles et de systèmes de missiles pour la défense aérienne, terrestre et navale."
+            },
+            {
+                "id": "c_naval_group",
+                "name": "NAVAL GROUP",
+                "description": "Leader européen du naval de défense, concevant et maintenant des sous-marins et navires de surface de haute technologie."
+            },
+            {
+                "id": "c_orange",
+                "name": "ORANGE",
+                "description": "Opérateur de télécommunications majeur et acteur clé de la cybersécurité et des services numériques aux entreprises."
+            },
+            {
+                "id": "c_qube_rt",
+                "name": "QUBE R&T",
+                "description": "Société de recherche quantitative et de technologie qui utilise l'IA et la science des données pour les marchés financiers mondiaux."
+            },
+            {
+                "id": "c_thales",
+                "name": "THALES",
+                "description": "Groupe d'électronique spécialisé dans l'aérospatiale, la défense, la sécurité et le transport terrestre."
+            },
+            {
+                "id": "c_wavestone",
+                "name": "WAVESTONE",
+                "description": "Cabinet de conseil indépendant spécialisé dans la transformation des entreprises et la cybersécurité."
+            },
+            {
+                "id": "c_ifremer",
+                "name": "IFREMER",
+                "description": "Institut français de recherche pour l'exploitation de la mer, contribuant à la connaissance des océans et à l'innovation maritime."
+            },
+            {
+                "id": "c_marine_nationale",
+                "name": "MARINE NATIONALE",
+                "description": "Force armée navale française assurant la sécurité des espaces maritimes, la dissuasion et les opérations extérieures."
+            },
+            {
+                "id": "c_sid",
+                "name": "SID (Service d'Infrastructure de la Défense)",
+                "description": "Service du ministère des Armées responsable de la construction, de la maintenance et de la gestion de l'ensemble de l'infrastructure militaire."
+            },
+            {
+                "id": "c_movensee",
+                "name": "MOVENSEE",
+                "description": "Entreprise innovante spécialisée dans les solutions de captation vidéo automatisée et de suivi pour le sport et l'industrie."
+            },
+            {
+                "id": "c_astek",
+                "name": "ASTEK",
+                "description": "Groupe international d'ingénierie et de conseil en technologies, présent dans l'aéronautique, l'énergie et l'IT."
+            },
+            {
+                "id": "c_setec_is",
+                "name": "SETEC IS",
+                "description": "Filiale du groupe Setec dédiée aux Systèmes d'Information, à la transformation numérique et à la cybersécurité."
+            },
+            {
+                "id": "c_sopra_steria",
+                "name": "Sopra Steria",
+                "description": "Leader européen du conseil, des services numériques et de l'édition de logiciels."
+            },
+            {
+                "id": "c_nxp",
+                "name": "NXP Semiconductors",
+                "description": "Leader mondial des solutions de connectivité sécurisée, de microcontrôleurs et de semi-conducteurs pour l'automobile et l'industrie."
+            },
+            {
+                "id": "c_nusense",
+                "name": "Nusense",
+                "description": "Jeune entreprise technologique développant des solutions innovantes dans le domaine des capteurs et de l'analyse de données."
+            },
+            {
+                "id": "c_anrf",
+                "name": "ANRF",
+                "description": "Acteur institutionnel ou technique lié à la gestion des fréquences ou à la recherche (Probable référence à l'ANFR : Agence Nationale des Fréquences)."
+            },
+            {
+                "id": "c_onepoint",
+                "name": "OnePoint",
+                "description": "Architecte des grandes transformations des entreprises et des acteurs publics, alliant stratégie, technologie et data."
+            },
+            {
+                "id": "c_oresys",
+                "name": "Oresys",
+                "description": "Cabinet de conseil indépendant en management, organisation et systèmes d'information."
+            }
+        ]
+    },
+    "poles": {
+        "title": "Découvrez les pôles du Forum",
+        "subtitle": "✨ Entreprises, innovation et opportunités",
+        "items": [
+            {
+                "id": "defense",
+                "name": "Pôle Défense",
+                "description": "Découvrez les entreprises du secteur de la défense et de la sécurité."
+            },
+            {
+                "id": "it",
+                "name": "Pôle Informatique & Réseaux",
+                "description": "Cybersécurité, réseaux, cloud et technologies quantiques."
+            },
+            {
+                "id": "energy",
+                "name": "Pôle Énergies & Environnement",
+                "description": "Explorez la transition énergétique et les solutions durables."
+            },
+            {
+                "id": "startup",
+                "name": "Pôle Start-up",
+                "description": "Innovation et entrepreneuriat avec des jeunes pousses ambitieuses."
+            },
+            {
+                "id": "health",
+                "name": "Pôle Santé",
+                "description": "Découvrez la santé numérique, la biotechnologie et le médical."
+            },
+            {
+                "id": "finance",
+                "name": "Pôle Finance & Conseil",
+                "description": "Banque, stratégie et conseil pour des carrières stimulantes."
+            },
+            {
+                "id": "research",
+                "name": "Pôle Recherche & Innovation",
+                "description": "Laboratoires et acteurs de l'innovation collaborative."
+            },
+            {
+                "id": "distribution",
+                "name": "Pôle Distribution & Agro-Alimentaire",
+                "description": "Experts en logistique, distribution et agroalimentaire durable."
+            },
+            {
+                "id": "transport",
+                "name": "Pôle Transports & Bâtiments",
+                "description": "Entreprises de la mobilité et des infrastructures de demain."
+            }
+        ]
+    },
+    "schedule": {
+        "title": "Déroulement de la journée",
+        "subtitle": "🕓 Le programme du Forum",
+        "items": [
+            {
+                "time": "9h00",
+                "title": "Simulations d'entretiens",
+                "description": "Le matin est consacré aux simulations d'entretien avec des intervenants déjà sélectionnés. Le Forum Entreprise se déroulera l'après-midi.",
+                "imgPath": "/images/entretien.png",
+                "logoPath": "/images/icons/interview.png"
+            },
+            {
+                "time": "12h00",
+                "title": "Déjeuner",
+                "description": "Pause conviviale et échanges constructifs autour d'un buffet. L'équipe du Forum et les intervenants présents le matin y sont conviés.",
+                "imgPath": "/images/buffet.jpg",
+                "logoPath": "/images/icons/food.png"
+            },
+            {
+                "time": "14h00",
+                "title": "Mot d'accueil & début du Forum",
+                "description": "Discours d'ouverture et lancement du Forum Cap Carrières.",
+                "imgPath": "/images/accueil.jpg",
+                "logoPath": "/images/icons/microphone.png"
+            },
+            {
+                "time": "14h05",
+                "title": "Animation des stands & micro-conférences",
+                "description": "Rencontrez les entreprises, participez à des ateliers et micro-conférences tout au long de l'après-midi. Les entreprises qui le souhaitent pourront animer des micro-conférences pour présenter leur entreprise en parallèle des stands.",
+                "imgPath": "/images/stands.jpeg",
+                "logoPath": "/images/icons/chat.png"
+            },
+            {
+                "time": "17h00",
+                "title": "Pot de départ",
+                "description": "Moment de détente et de partage pour conclure la journée.",
+                "imgPath": "/images/afterwork.jpg",
+                "logoPath": "/images/icons/vin.png"
+            }
+        ]
+    },
+    "team": {
+        "title": "Découvrez l'équipe derrière le Forum",
+        "subtitle": "✨ Qui sommes-nous ?",
+        "members": [
+            {
+                "id": "lead",
+                "name": "Présidence",
+                "description": "L'équipe de coordination générale du Forum."
+            },
+            {
+                "id": "web",
+                "name": "Pôle Web",
+                "description": "Responsable du site et des outils numériques."
+            },
+            {
+                "id": "logistics",
+                "name": "Pôle Logistique",
+                "description": "Organisation pratique et déroulé de l'événement."
+            },
+            {
+                "id": "communication",
+                "name": "Pôle Communication",
+                "description": "Visibilité, réseaux sociaux et design graphique."
+            }
+        ]
+    },
+    "contact": {
+        "title": "Contactez-nous - créons le lien",
+        "subtitle": "Des questions ou des idées ? Parlons-en !",
+        "form": {
+            "labels": {
+                "name": "Votre nom",
+                "email": "Votre e-mail",
+                "message": "Votre message"
+            },
+            "placeholders": {
+                "name": "Quel est votre nom ?",
+                "email": "Quelle est votre adresse e-mail ?",
+                "message": "Comment pouvons-nous vous aider ?"
+            },
+            "button": {
+                "default": "Envoyer le message",
+                "loading": "Envoi en cours..."
+            },
+            "status": {
+                "success": "Merci ! Votre message a bien été envoyé.",
+                "error": "Une erreur est survenue lors de l'envoi. Veuillez réessayer."
+            }
+        }
+    },
+    "footer": {
+        "terms": "Conditions générales",
+        "rights": "© {{year}} IMT Atlantique Brest. Tous droits réservés."
+    }
+}

@@ -1,0 +1,351 @@
+{
+  "navbar": {
+    "logo": "Forum IMT Atlantique Brest",
+    "contact": "Contact Us",
+    "links": {
+      "school": "The School",
+      "forum": "The Forum",
+      "companies": "Companies",
+      "poles": "Poles",
+      "team": "The Team",
+      "schedule": "Schedule"
+    }
+  },
+  "languageSwitcher": {
+    "fr": "Français",
+    "en": "English"
+  },
+  "hero": {
+    "headline": {
+      "line1": "Building",
+      "line2": "with Companies",
+      "line3": "at IMT Atlantique"
+    },
+    "rotatingWords": {
+      "careers": "Careers",
+      "opportunities": "Opportunities",
+      "connections": "Connections"
+    },
+    "tagline": "The 1st edition of the Cap Carrières Forum shaping the careers of tomorrow.",
+    "cta": "Learn More"
+  },
+  "stats": {
+    "items": [
+      {
+        "value": 1,
+        "suffix": "st Edition",
+        "label": "on December 4, 2025 in Brest"
+      },
+      {
+        "value": 20,
+        "suffix": "+",
+        "label": "Companies"
+      },
+      {
+        "value": 700,
+        "suffix": "+",
+        "label": "Students"
+      },
+      {
+        "value": 6,
+        "suffix": "+",
+        "label": "Sectors"
+      }
+    ]
+  },
+  "countdown": {
+    "title": "The IMT Atlantique Forum starts in:",
+    "days": "Days",
+    "hours": "Hours",
+    "minutes": "Minutes",
+    "seconds": "Seconds"
+  },
+  "school": {
+    "title": "IMT Atlantique – A School of Excellence",
+    "description1": "IMT Atlantique is a top French engineering school formed from the merger of Télécom Bretagne and Mines Nantes. It trains engineers, researchers, and entrepreneurs shaping the technologies of the future.",
+    "description2": "With campuses in Brest, Nantes, and Rennes, the school combines cutting-edge research, innovation, and global openness. It plays a key role in the digital, energy, and environmental transitions.",
+    "footer": "🌍 A school focused on the future and the challenges of the 21st century.",
+    "button": "Discover the School"
+  },
+  "groupPhoto": {
+    "alt": "Group photo of IMT Atlantique students"
+  },
+  "forum": {
+    "title": "Meet more than 40 partner companies!",
+    "description1": "Born from the desire of students to create a direct link with companies, Cap Carrières is a forum conceived as a genuine space for exchange.",
+    "description2": "This student initiative aims to foster concrete encounters centered on internships, employment, and career prospects. The event allows companies to meet young talents who are curious, competent, committed, and ready to take on the challenges of tomorrow.",
+    "footer": "🤝 Join us for a day rich in exchanges, learning, and career opportunities!",
+    "button": "Download the brochure"
+  },
+  "logos": {
+    "title": "They already trust us",
+    "subtitle": "🤝 Our partners",
+    "modal": {
+      "cta": "Learn more",
+      "close": "Close"
+    },
+    "items": [
+      {
+        "id": "c_arkea",
+        "name": "ARKEA",
+        "description": "Cooperative and territorial banking group, Arkéa innovates in sustainable finance and digital services (Crédit Mutuel de Bretagne, Fortuneo)."
+      },
+      {
+        "id": "c_carrefour",
+        "name": "CARREFOUR",
+        "description": "Retail giant committed to the food transition, e-commerce, and sustainable logistics."
+      },
+      {
+        "id": "c_clever_cloud",
+        "name": "CLEVER CLOUD",
+        "description": "French Cloud hosting and automation specialist (PaaS), enabling developers to deploy their code securely."
+      },
+      {
+        "id": "c_dga_mi",
+        "name": "DGA-MI",
+        "description": "Directorate General of Armaments site dedicated to Information Mastery: cybersecurity, electronic warfare, and strategic communication systems."
+      },
+      {
+        "id": "c_enedis",
+        "name": "ENEDIS",
+        "description": "Manager of the public electricity distribution network, Enedis ensures connection, troubleshooting, and the deployment of Linky meters."
+      },
+      {
+        "id": "c_mbda",
+        "name": "MBDA",
+        "description": "European leader in the design of missiles and missile systems for air, land, and naval defense."
+      },
+      {
+        "id": "c_naval_group",
+        "name": "NAVAL GROUP",
+        "description": "European leader in naval defense, designing, building, and maintaining high-tech submarines and surface vessels."
+      },
+      {
+        "id": "c_orange",
+        "name": "ORANGE",
+        "description": "Major telecommunications operator and key player in cybersecurity and digital services for businesses."
+      },
+      {
+        "id": "c_qube_rt",
+        "name": "QUBE R&T",
+        "description": "Quantitative research and technology company utilizing AI and data science for global financial markets."
+      },
+      {
+        "id": "c_thales",
+        "name": "THALES",
+        "description": "Global electronics group specializing in aerospace, defense, security, and digital identity."
+      },
+      {
+        "id": "c_wavestone",
+        "name": "WAVESTONE",
+        "description": "Independent consulting firm specializing in business transformation and cybersecurity."
+      },
+      {
+        "id": "c_ifremer",
+        "name": "IFREMER",
+        "description": "French Research Institute for Exploitation of the Sea, contributing to ocean knowledge and maritime innovation."
+      },
+      {
+        "id": "c_marine_nationale",
+        "name": "MARINE NATIONALE",
+        "description": "French Navy (Armed Forces) ensuring maritime security, nuclear deterrence, and overseas operations."
+      },
+      {
+        "id": "c_sid",
+        "name": "SID (Service d'Infrastructure de la Défense)",
+        "description": "Service of the Ministry of the Armed Forces responsible for the construction, maintenance, and management of all military infrastructure."
+      },
+      {
+        "id": "c_movensee",
+        "name": "MOVENSEE",
+        "description": "Innovative company specializing in automated video capture and tracking solutions for sports and industry."
+      },
+      {
+        "id": "c_astek",
+        "name": "ASTEK",
+        "description": "International engineering and technology consulting group, operating in aeronautics, energy, and IT."
+      },
+      {
+        "id": "c_setec_is",
+        "name": "SETEC IS",
+        "description": "Subsidiary of the Setec group dedicated to Information Systems, digital transformation, and cybersecurity."
+      },
+      {
+        "id": "c_sopra_steria",
+        "name": "Sopra Steria",
+        "description": "European leader in consulting, digital services, and software development."
+      },
+      {
+        "id": "c_nxp",
+        "name": "NXP Semiconductors",
+        "description": "Global leader in secure connectivity solutions, microcontrollers, and semiconductors for automotive and industrial sectors."
+      },
+      {
+        "id": "c_nusense",
+        "name": "Nusense",
+        "description": "Young technology company developing innovative solutions in the field of sensors and data analysis."
+      },
+      {
+        "id": "c_anrf",
+        "name": "ANRF",
+        "description": "Institutional or technical entity related to frequency management or research (Likely reference to ANFR: National Frequency Agency)."
+      },
+      {
+        "id": "c_onepoint",
+        "name": "OnePoint",
+        "description": "Architect of major transformations for companies and public actors, combining strategy, technology, and data."
+      },
+      {
+        "id": "c_oresys",
+        "name": "Oresys",
+        "description": "Independent consulting firm specializing in management, organization, and information systems."
+      }
+    ]
+  },
+  "poles": {
+    "title": "Discover the Forum poles",
+    "subtitle": "✨ Companies, innovation and opportunities",
+    "items": [
+      {
+        "id": "defense",
+        "name": "Defense Pole",
+        "description": "Meet companies in the defense and security sector."
+      },
+      {
+        "id": "it",
+        "name": "IT & Networks Pole",
+        "description": "Cybersecurity, networks, cloud and quantum technologies."
+      },
+      {
+        "id": "energy",
+        "name": "Energy & Environment Pole",
+        "description": "Explore the energy transition and sustainable solutions."
+      },
+      {
+        "id": "startup",
+        "name": "Start-up Pole",
+        "description": "Innovation and entrepreneurship with ambitious startups."
+      },
+      {
+        "id": "health",
+        "name": "Health Pole",
+        "description": "Discover digital health, biotechnology and medical advances."
+      },
+      {
+        "id": "finance",
+        "name": "Finance & Consulting Pole",
+        "description": "Banking, strategy and consulting for exciting careers."
+      },
+      {
+        "id": "research",
+        "name": "Research & Innovation Hub",
+        "description": "Labs and key players in collaborative innovation."
+      },
+      {
+        "id": "distribution",
+        "name": "Distribution & Agrifood Hub",
+        "description": "Experts in logistics, retail, and sustainable agrifood."
+      },
+      {
+        "id": "transport",
+        "name": "Transport & Infrastructure Hub",
+        "description": "Companies shaping future mobility and smart buildings."
+      }
+    ]
+  },
+  "schedule": {
+    "title": "Day's Schedule",
+    "subtitle": "🕓 The Forum's Program",
+    "items": [
+      {
+        "time": "9:00 AM",
+        "title": "Interview Simulations",
+        "description": "The morning is dedicated to interview simulations with pre-selected speakers. The Company Forum will take place in the afternoon.",
+        "imgPath": "/images/entretien.png",
+        "logoPath": "/images/icons/interview.png"
+      },
+      {
+        "time": "12:00 PM",
+        "title": "Lunch",
+        "description": "A friendly break and constructive exchanges over a buffet. The Forum team and the morning's speakers are invited.",
+        "imgPath": "/images/buffet.jpg",
+        "logoPath": "/images/icons/food.png"
+      },
+      {
+        "time": "2:00 PM",
+        "title": "Welcoming Word & Forum Start",
+        "description": "Opening speech and launch of the Cap Carrières Forum.",
+        "imgPath": "/images/accueil.jpg",
+        "logoPath": "/images/icons/microphone.png"
+      },
+      {
+        "time": "2:05 PM",
+        "title": "Booth Animations & Micro-Talks",
+        "description": "Meet companies, participate in workshops and micro-talks all afternoon. Companies can also host micro-talks to present their business alongside the booths.",
+        "imgPath": "/images/stands.jpeg",
+        "logoPath": "/images/icons/chat.png"
+      },
+      {
+        "time": "5:00 PM",
+        "title": "Farewell Drink",
+        "description": "A moment of relaxation and sharing to conclude the day.",
+        "imgPath": "/images/afterwork.jpg",
+        "logoPath": "/images/icons/vin.png"
+      }
+    ]
+  },
+  "team": {
+    "title": "Meet the team behind the Forum",
+    "subtitle": "✨ Who are we?",
+    "members": [
+      {
+        "id": "lead",
+        "name": "Leadership",
+        "description": "The team in charge of the Forum's overall coordination."
+      },
+      {
+        "id": "web",
+        "name": "Web Team",
+        "description": "Responsible for the website and digital tools."
+      },
+      {
+        "id": "logistics",
+        "name": "Logistics Team",
+        "description": "Practical organization and event operations."
+      },
+      {
+        "id": "communication",
+        "name": "Communication Team",
+        "description": "Visibility, social media and graphic design."
+      }
+    ]
+  },
+  "contact": {
+    "title": "Get in touch - let's connect",
+    "subtitle": "Have questions or ideas? Let's talk!",
+    "form": {
+      "labels": {
+        "name": "Your name",
+        "email": "Your email",
+        "message": "Your message"
+      },
+      "placeholders": {
+        "name": "What's your name?",
+        "email": "What's your email address?",
+        "message": "How can we help you?"
+      },
+      "button": {
+        "default": "Send Message",
+        "loading": "Sending..."
+      },
+      "status": {
+        "success": "Thank you! Your message has been sent.",
+        "error": "Something went wrong while sending your message. Please try again."
+      }
+    }
+  },
+  "footer": {
+    "terms": "Terms & Conditions",
+    "rights": "© {{year}} IMT Atlantique Brest. All rights reserved."
+  }
+}
